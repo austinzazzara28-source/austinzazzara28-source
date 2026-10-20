@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<p> This is a school assignment, don't expect something too unique.</p>
 <!--
 **austinzazzara28-source/austinzazzara28-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
